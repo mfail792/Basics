@@ -1,2 +1,2 @@
-# Basics
-Refreshing on some basic concepts.  Lesson 1.1
+# Basics 1.1
+Refreshing on some basic concepts.
