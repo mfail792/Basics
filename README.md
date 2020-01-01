@@ -1,2 +1,2 @@
 # Basics
-Refreshing on some basic concepts
+Refreshing on some basic concepts.
