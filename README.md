@@ -1,2 +1,2 @@
-# Basics 1.1
+# Basics
 Refreshing on some basic HTML/CSS concepts.
