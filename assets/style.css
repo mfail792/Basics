@@ -35,13 +35,11 @@ h2 {
 #contact-info,
 #bio-image {
     float: left;
+    width: 30%;
 }
 
 #main-bio {
     width: 70%;
-}
-#contact-info {
-    width: 30%;
 }
 
 #bio-image {
